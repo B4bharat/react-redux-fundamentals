@@ -1,10 +1,8 @@
 // Action Creator
-const selectSong = (song) => {
+export const selectSong = (song) => {
   // Action
   return {
     type: "SONG_SELECTED",
     payload: song
   };
 };
-
-export { selectSong };
