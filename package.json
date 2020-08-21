@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-fundamentals",
+  "name": "react-redux-songlist-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Section 17 of Modern React and Redux [2020]",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
